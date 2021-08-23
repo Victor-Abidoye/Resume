@@ -1,4 +1,3 @@
 # resume
-HNGi8 - task 2  
-Liadi Ahmed  
-aoliadi
+HNGi8 - task 2
+Abidoye Victor
